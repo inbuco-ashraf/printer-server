@@ -1,0 +1,99 @@
+{
+  "printers": [
+    {
+      "name": "OneNote for Windows 10",
+      "portName": "Microsoft.Office.OneNote_16001.13328.20478.0_x64__8wekyb3d8bbwe_microsoft.onenoteim_S-1-5-21-3404633903-2152250431-930184394-1001",
+      "driverName": "Microsoft Software Printer Driver",
+      "printProcessor": "winprint",
+      "datatype": "RAW",
+      "status": [],
+      "statusNumber": 0,
+      "attributes": [
+        "LOCAL"
+      ],
+      "priority": 1,
+      "defaultPriority": 0,
+      "averagePPM": 0
+    },
+    {
+      "name": "Microsoft XPS Document Writer",
+      "portName": "PORTPROMPT:",
+      "driverName": "Microsoft XPS Document Writer v4",
+      "printProcessor": "winprint",
+      "datatype": "RAW",
+      "status": [],
+      "statusNumber": 0,
+      "attributes": [
+        "DO-COMPLETE-FIRST",
+        "LOCAL"
+      ],
+      "priority": 1,
+      "defaultPriority": 0,
+      "averagePPM": 0
+    },
+    {
+      "name": "Microsoft Print to PDF",
+      "portName": "PORTPROMPT:",
+      "driverName": "Microsoft Print To PDF",
+      "printProcessor": "winprint",
+      "datatype": "RAW",
+      "status": [],
+      "statusNumber": 0,
+      "attributes": [
+        "DO-COMPLETE-FIRST",
+        "LOCAL"
+      ],
+      "priority": 1,
+      "defaultPriority": 0,
+      "averagePPM": 0
+    },
+    {
+      "name": "Foxit Reader PDF Printer",
+      "portName": "FOXIT_Reader:",
+      "driverName": "Foxit Reader PDF Printer Driver",
+      "printProcessor": "winprint",
+      "datatype": "RAW",
+      "status": [],
+      "statusNumber": 0,
+      "attributes": [
+        "LOCAL"
+      ],
+      "priority": 1,
+      "defaultPriority": 0,
+      "averagePPM": 0
+    },
+    {
+      "name": "Fax",
+      "portName": "SHRFAX:",
+      "driverName": "Microsoft Shared Fax Driver",
+      "printProcessor": "winprint",
+      "datatype": "RAW",
+      "status": [],
+      "statusNumber": 0,
+      "attributes": [
+        "FAX",
+        "LOCAL"
+      ],
+      "priority": 1,
+      "defaultPriority": 0,
+      "averagePPM": 0
+    },
+    {
+      "name": "EPSON WF-7710 Series",
+      "portName": "WSD-47ed4301-cda8-4927-a0dd-a80670a42866",
+      "driverName": "Microsoft IPP Class Driver",
+      "location": "http://[fe80::9eae:d3ff:feee:d089%5]:80/WSD/DEVICE",
+      "printProcessor": "winprint",
+      "datatype": "RAW",
+      "status": [],
+      "statusNumber": 0,
+      "attributes": [
+        "DO-COMPLETE-FIRST",
+        "LOCAL"
+      ],
+      "priority": 1,
+      "defaultPriority": 0,
+      "averagePPM": 0
+    }
+  ]
+}
